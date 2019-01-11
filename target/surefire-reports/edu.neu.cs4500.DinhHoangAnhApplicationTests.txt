@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.neu.cs4500.DinhHoangAnhApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.961 s - in edu.neu.cs4500.DinhHoangAnhApplicationTests
